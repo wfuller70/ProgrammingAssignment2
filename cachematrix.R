@@ -4,7 +4,7 @@
 ##   - sets the value of the matrix
 ##   - gets the value of the matrix
 ##   - sets the value of the inverse matrix
-##   - gets the value of the inverse matrix
+##   - get the value of the inverse matrix
 
 makeCacheMatrix <- function(x = matrix()) {
     i <- NULL
