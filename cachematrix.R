@@ -1,5 +1,4 @@
 ## A Function that will cache the inverse of a matrix
-
 ## Create a special "matrix", which is a list containing
 ## a function to
 ##   - sets the value of the matrix
